@@ -1,2 +1,0 @@
-mostrando el stage y ver una modificacion
-segunda forma alternativa para commit
