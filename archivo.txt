@@ -1,1 +1,2 @@
 mi primer curso de git
+alternativa git status
